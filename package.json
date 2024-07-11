@@ -1,0 +1,24 @@
+{
+  "name": "nodemicroservice",
+  "version": "1.0.0",
+  "description": "samhitha's first node project-microservice using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "node",
+    "basics",
+    "microservice",
+    "samhitha"
+  ],
+  "author": "samhitha atyam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
